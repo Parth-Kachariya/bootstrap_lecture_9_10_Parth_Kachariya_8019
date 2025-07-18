@@ -1,0 +1,13 @@
+p i {
+  font-size: 40px;
+}
+.notification {
+  position: relative;
+}
+span {
+  position: absolute;
+  top: -5px;
+  left: 74px;
+  font-size: 10px;
+  background-color: red;
+}
